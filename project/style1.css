@@ -1,0 +1,60 @@
+
+
+p{
+    width: 100%;
+}
+.topheader {
+    color: #fff;
+    padding-left: 80px ;
+    background-color: darkblue;
+}
+.topheader a {
+    color: #fff;
+    padding-left: 25px ;
+    background-color: darkblue;
+}
+.top a{
+    padding-left: 30px;
+}
+.top{
+    opacity: transparent;
+}
+.home{
+    background-image: url(./berry-college-historic-campus-at-twilight-royalty-free-image-1652127954.jpg);
+    width: 100%;
+
+}
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.abc{
+    border:1px solid black;
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+}
+.abcd{
+    border:1px solid black;
+    width: 35%;
+    padding: 10px;
+    margin: auto;
+}
+
+.abcd1{
+    border:1px solid black;
+    width: 35%;
+    padding: 10px;
+    margin: auto;
+}.abcd2{
+    border:1px solid black;
+    width: 35%;
+    padding: 10px;
+    margin: auto;
+}
+.abcd3{
+    border:1px solid black;
+    width: 35%;
+    padding: 10px;
+    margin: auto;
+}
